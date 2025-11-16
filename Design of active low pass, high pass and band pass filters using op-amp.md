@@ -37,20 +37,29 @@ band pass filter depends on the order of high pass and low pass sections.
 ## CIRCUIT DIAGRAM: 
 ## LOW_PASS-
 
-<img width="612" height="489" alt="image" src="https://github.com/user-attachments/assets/c6d6ec49-2523-49aa-af53-3092995a22c7" />
+<img width="412" height="489" alt="image" src="https://github.com/user-attachments/assets/c6d6ec49-2523-49aa-af53-3092995a22c7" />
 
 ## HIGH-PASS-
 
-<img width="549" height="432" alt="image" src="https://github.com/user-attachments/assets/1b2e49f0-9d83-4956-b6ce-c0c6ce43eef6" />
+<img width="449" height="432" alt="image" src="https://github.com/user-attachments/assets/1b2e49f0-9d83-4956-b6ce-c0c6ce43eef6" />
 
 ## BAND-PASS-
 
-<img width="639" height="382" alt="image" src="https://github.com/user-attachments/assets/c6908b9e-3aa0-485f-990c-88bd2a6e0344" />
+<img width="439" height="382" alt="image" src="https://github.com/user-attachments/assets/c6908b9e-3aa0-485f-990c-88bd2a6e0344" />
 
 ## MODEL GRAPH:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+## LOW_PASS-
+
+<img width="375" height="543" alt="image" src="https://github.com/user-attachments/assets/fa73bc1a-d595-4257-b1ad-41fe9831f235" />
+
+## HIGH-PASS-
+
+<img width="314" height="351" alt="image" src="https://github.com/user-attachments/assets/e8ae9183-e50a-4694-a8ec-fcdd9dc77778" />
+
+## BAND-PASS-
+
+<img width="334" height="385" alt="image" src="https://github.com/user-attachments/assets/b05fdbe2-1d39-4362-8b7d-7052bb403cec" />
+
 
 ## PROCEDURE - (LPF & HPF): 
 1. Connect the circuit as shown in the circuit diagram. 
