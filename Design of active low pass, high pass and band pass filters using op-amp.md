@@ -35,9 +35,17 @@ pass filter can be formed by simply cascading high-pass and low-pass sections.  
 band pass filter depends on the order of high pass and low pass sections.
 
 ## CIRCUIT DIAGRAM: 
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+## LOW_PASS-
+
+<img width="612" height="489" alt="image" src="https://github.com/user-attachments/assets/c6d6ec49-2523-49aa-af53-3092995a22c7" />
+
+## HIGH-PASS-
+
+<img width="549" height="432" alt="image" src="https://github.com/user-attachments/assets/1b2e49f0-9d83-4956-b6ce-c0c6ce43eef6" />
+
+## BAND-PASS-
+
+<img width="639" height="382" alt="image" src="https://github.com/user-attachments/assets/c6908b9e-3aa0-485f-990c-88bd2a6e0344" />
 
 ## MODEL GRAPH:
 ## LOW_PASS
