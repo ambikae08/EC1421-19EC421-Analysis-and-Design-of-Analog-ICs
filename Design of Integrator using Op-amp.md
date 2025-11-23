@@ -42,9 +42,12 @@ We get , R1 =  and hence Rf =
 ~~~
 ## CIRCUIT DIAGRAM:
 
+<img width="320" height="241" alt="image" src="https://github.com/user-attachments/assets/7350bd28-896e-4d6a-a6f5-66014243952c" />
 
 
 ## MODEL GRAPH
+
+<img width="274" height="454" alt="image" src="https://github.com/user-attachments/assets/1967a2e5-575c-498d-8fb8-534acf2448ab" />
 
 
 
@@ -59,10 +62,12 @@ are plotted in a graph sheet.
 
 ## TABULATION:
 
+<img width="420" height="247" alt="image" src="https://github.com/user-attachments/assets/91d03e96-d615-45cf-b0f8-f008ad7ece54" />
 
 
 ## GRAPH:
 
+<img width="359" height="567" alt="image" src="https://github.com/user-attachments/assets/6de05efb-db06-4294-acc8-efd4a62a36e2" />
 
 
 ## RESULT:
